@@ -1,7 +1,7 @@
 :root {
-    --background: rgb(224, 234, 247);
-    --header-background: white;
-    --footer-background: rgb(243, 242, 242);
+    --background: rgb(236, 223, 245);
+    --header-background: rgb(210, 233, 229);
+    --footer-background: rgba(170, 182, 165, 0.979);
 }
 
 body {
@@ -28,7 +28,7 @@ footer {
     position: sticky;
     bottom: 0;
     padding: 7px 20px;
-    font-size: .8em;
+    font-size: 0.8em;
     display: flex;
     justify-content: flex-end;
     background-color: var(--footer-background);
