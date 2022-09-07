@@ -1,3 +1,5 @@
+![wireframe](/assets/about-eevee-wireframe.png)
+
 ## The Golden Rule:
 
 🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
